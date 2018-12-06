@@ -1,2 +1,2 @@
-# cs2511
+# Car Puzzle Game - Group Project
 Group Project
